@@ -88,7 +88,7 @@ Ganesh Maharaj Kamatham
 
 B.Tech – Computer Science Engineering spl in Data Science, VIT Vellore
 
-📧 [ganeshmaharaj.kamatham@gmail.com](ganeshmaharaj.kamatham@gmail.com)
+📧 [ganeshmaharaj.kamatham@gmail.com](mailto:ganeshmaharaj.kamatham@gmail.com)
 
 📄 [[LinkedIn Profile](https://www.linkedin.com/in/ganesh-maharaj-kamatham-4b38a6310/)]
 
