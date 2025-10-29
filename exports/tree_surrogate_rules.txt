@@ -1,0 +1,22 @@
+Tree surrogate (max_depth=3, min_samples_leaf=100)
+
+Rules:
+|--- Recency <= 138.50
+|   |--- Frequency <= 24.50
+|   |   |--- Recency <= 121.50
+|   |   |   |--- class: 0
+|   |   |--- Recency >  121.50
+|   |   |   |--- class: 0
+|   |--- Frequency >  24.50
+|   |   |--- class: 0
+|--- Recency >  138.50
+|   |--- Recency <= 155.50
+|   |   |--- class: 2
+|   |--- Recency >  155.50
+|   |   |--- MonetaryNet <= 908.10
+|   |   |   |--- class: 2
+|   |   |--- MonetaryNet >  908.10
+|   |   |   |--- class: 2
+
+
+CV Accuracy: 0.989
